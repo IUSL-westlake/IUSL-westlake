@@ -1,0 +1,1 @@
+Search.setIndex({docnames:["index","test1"],envversion:53,filenames:["index.rst","test1.rst"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0,test1:0,test:1,thi:1},titles:["Welcome to IUSL\u2019s documentation!","test1"],titleterms:{document:0,indic:0,iusl:0,tabl:0,test1:1,welcom:0}})
