@@ -47,7 +47,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = 'IUSL'
-copyright = '2019, Jianan'
+copyright = '2019 IUSL. | Powered by Jimmmy\'s Studio™'
 author = 'Jianan'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -84,12 +84,16 @@ todo_include_todos = False
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
+html_show_sourcelink = False
+show_powered_by = False
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+'show_powered_by': 'false',
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
