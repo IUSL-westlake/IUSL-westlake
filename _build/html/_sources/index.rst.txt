@@ -4,7 +4,7 @@
    contain the root `toctree` directive.
 
 Intelligent Unmanned Systems Lab
-=========================================
+-----------------------------------
 
 .. image:: fig/indexPic.gif
   :width: 85%
@@ -12,7 +12,7 @@ Intelligent Unmanned Systems Lab
 .. raw:: html
 
   <br/><br/>
-  
+
   <iframe width="560" height="315" src="https://www.youtube.com/embed/HyCn8r7LBZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 (This is a Youtube link. If your browser fails to load it, please consider using a VPN.)
