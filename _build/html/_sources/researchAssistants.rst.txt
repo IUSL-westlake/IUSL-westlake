@@ -5,7 +5,7 @@ Research Assistants
   :width: 150px
   :align: left
 
-Hanqing Guo received his bachelor and master degrees from Northwestern Polytechnical University with excellent academic performance. He used to work in Beijing Zero Zero Infinity Technology Co., Ltd as a research engineer. At present，he focus on MAV design、control and perception.
+Hanqing Guo received his bachelor and master degrees from Northwestern Polytechnical University with excellent academic performance. He used to work in Beijing Zero Zero Infinity Technology Co., Ltd as a research engineer. At present，he focuses on MAV design, control and perception.
 
 .. image:: fig/taopei.jpg
   :width: 150px
